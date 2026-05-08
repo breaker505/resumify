@@ -299,5 +299,7 @@ MIT License © breaker505
     <a href="https://github.com/breaker505">breaker505</a>
     ·
     <a href="https://breaker505.github.io">博客</a>
+    ·
+    <a href="https://linux.do">LINUX DO</a>
   </sub>
 </div>
